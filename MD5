@@ -1,8 +1,9 @@
-6cad97c8a837df2cef368d3bb74e98e3 *DESCRIPTION
+18b68c3c0e497d4150b72a371a3dc0bf *DESCRIPTION
 9f14dba7293b822b28b25847b79c9d2a *NAMESPACE
+e48c3928eba11f5f1b6bfce8fe8ae2f7 *NEWS.md
 f776e975d3fb0f14b7219303bc033f05 *R/download_t1_data.R
-bd3e1c73cdcdd0c3edc52773a5f28cc9 *R/get_t1_filenames.R
+f051f4ba507825c482a18167dbf129bc *R/get_t1_filenames.R
 0adefe3ff240a481435814b0591283ef *README.md
 ae7db4099be276e1cdcb1e96d92af51a *inst/CITATION
 5fab1cd5a11c41d69698e462b4dd2d9a *man/download_t1_data.Rd
-50cf3d18a87c5236921e3fcbb4ebb149 *man/get_t1_filenames.Rd
+af6ac9c564eac296331b176aac7b1d61 *man/get_t1_filenames.Rd
